@@ -22,11 +22,11 @@ body {
   font-weight: 100;
   text-align: center;
   font-size: 30px;
-  display: inline-block;
 }
 
 .field {
   padding: 10px;
+  margin: 5px;
   border-radius: 3px;
   background: #0f4877;
   display: inline-block;
